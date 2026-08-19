@@ -1,0 +1,34 @@
+1641-Pessoas de 14 anos ou mais de idade
+4087-Coeficiente de variação / Pessoas de 14 anos ou mais de idade
+4104-Distribuição percentual das pessoas de 14 anos ou mais de idade
+4105-Coeficiente de variação / Distribuição percentual das pessoas de 14 anos ou mais de idade
+4088-Pessoas de 14 anos ou mais de idade, na força de trabalho, na semana de referência
+4089-Coeficiente de variação / Pessoas de 14 anos ou mais de idade, na força de trabalho, na semana de referência
+4106-Distribuição percentual das pessoas de 14 anos ou mais de idade, na força de trabalho, na semana de referência
+4107-Coeficiente de variação / Distribuição percentual das pessoas de 14 anos ou mais de idade, na força de trabalho, na semana de referência
+4090-Pessoas de 14 anos ou mais de idade ocupadas na semana de referência
+4091-Coeficiente de variação / Pessoas de 14 anos ou mais de idade ocupadas na semana de referência
+4108-Distribuição percentual das pessoas de 14 anos ou mais de idade ocupadas na semana de referência
+4109-Coeficiente de variação / Distribuição percentual das pessoas de 14 anos ou mais de idade ocupadas na semana de referência
+4092-Pessoas de 14 anos ou mais de idade, desocupadas na semana de referência
+4093-Coeficiente de variação / Pessoas de 14 anos ou mais de idade, desocupadas na semana de referência
+4110-Distribuição percentual das pessoas de 14 anos ou mais de idade, desocupadas na semana de referência
+4111-Coeficiente de variação / Distribuição percentual das pessoas de 14 anos ou mais de idade, desocupadas na semana de referência
+4094-Pessoas de 14 anos ou mais de idade, fora da força de trabalho, na semana de referência
+4095-Coeficiente de variação / Pessoas de 14 anos ou mais de idade, fora da força de trabalho, na semana de referência
+4112-Distribuição percentual das pessoas de 14 anos ou mais de idade, fora da força de trabalho, na semana de referência
+4113-Coeficiente de variação / Distribuição percentual das pessoas de 14 anos ou mais de idade, fora da força de trabalho, na semana de referência
+4096-Taxa de participação na força de trabalho, na semana de referência, das pessoas de 14 anos ou mais de idade
+4100-Coeficiente de variação / Taxa de participação na força de trabalho, na semana de referência, das pessoas de 14 anos ou mais de idade
+4097-Nível da ocupação, na semana de referência, das pessoas de 14 anos ou mais de idade
+4101-Coeficiente de variação / Nível da ocupação, na semana de referência, das pessoas de 14 anos ou mais de idade
+4098-Nível da desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade
+4102-Coeficiente de variação / Nível de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade
+4099-Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade
+4103-Coeficiente de variação / Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade
+12466-Taxa de informalidade das pessoas de 14 anos ou mais de idade ocupadas na semana de referência
+12467-Coeficiente de variação / Taxa de informalidade das pessoas de 14 anos ou mais de idade ocupadas na semana de referência
+4723-Pessoas de 14 anos ou mais de idade ocupadas, em situação de informalidade, na semana de referência
+4724-Coeficiente de variação / Pessoas de 14 anos ou mais de idade ocupadas, em situação de informalidade, na semana de referência
+4726-Distribuição percentual das pessoas de 14 anos ou mais de idade ocupadas, em situação de informalidade, na semana de referência
+4774-Coeficiente de variação / Distribuição percentual das pessoas de 14 anos ou mais de idade ocupadas, em situação de informalidade, na semana de referência
