@@ -1,0 +1,100 @@
+﻿arquivo,tag,texto,atributos
+Distrito_Sanitário 24-09-14.shp.xml,metadata,,{'{http://www.w3.org/XML/1998/namespace}lang': 'pt'}
+Distrito_Sanitário 24-09-14.shp.xml,Esri,,{}
+Distrito_Sanitário 24-09-14.shp.xml,CreaDate,20140502,{}
+Distrito_Sanitário 24-09-14.shp.xml,CreaTime,11395100,{}
+Distrito_Sanitário 24-09-14.shp.xml,ArcGISFormat,1.0,{}
+Distrito_Sanitário 24-09-14.shp.xml,SyncOnce,TRUE,{}
+Distrito_Sanitário 24-09-14.shp.xml,DataProperties,,{}
+Distrito_Sanitário 24-09-14.shp.xml,lineage,,{}
+Distrito_Sanitário 24-09-14.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO ""[CRPAAACODI] + [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '113951'}"
+Distrito_Sanitário 24-09-14.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário AUX ""."" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114453'}"
+Distrito_Sanitário 24-09-14.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO_1 ""[CRPAAACODI] & [AUX] & [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114827'}"
+DSI.shp.xml,metadata,,{'{http://www.w3.org/XML/1998/namespace}lang': 'pt'}
+DSI.shp.xml,Esri,,{}
+DSI.shp.xml,CreaDate,20141023,{}
+DSI.shp.xml,CreaTime,16280400,{}
+DSI.shp.xml,ArcGISFormat,1.0,{}
+DSI.shp.xml,SyncOnce,TRUE,{}
+DSI.shp.xml,DataProperties,,{}
+DSI.shp.xml,lineage,,{}
+DSI.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO ""[CRPAAACODI] + [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '113951'}"
+DSI.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário AUX ""."" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114453'}"
+DSI.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO_1 ""[CRPAAACODI] & [AUX] & [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114827'}"
+DSII.shp.xml,metadata,,{'{http://www.w3.org/XML/1998/namespace}lang': 'pt'}
+DSII.shp.xml,Esri,,{}
+DSII.shp.xml,CreaDate,20141023,{}
+DSII.shp.xml,CreaTime,16283600,{}
+DSII.shp.xml,ArcGISFormat,1.0,{}
+DSII.shp.xml,SyncOnce,TRUE,{}
+DSII.shp.xml,DataProperties,,{}
+DSII.shp.xml,lineage,,{}
+DSII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO ""[CRPAAACODI] + [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '113951'}"
+DSII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário AUX ""."" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114453'}"
+DSII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO_1 ""[CRPAAACODI] & [AUX] & [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114827'}"
+DSIII.shp.xml,metadata,,{'{http://www.w3.org/XML/1998/namespace}lang': 'pt'}
+DSIII.shp.xml,Esri,,{}
+DSIII.shp.xml,CreaDate,20141023,{}
+DSIII.shp.xml,CreaTime,16290300,{}
+DSIII.shp.xml,ArcGISFormat,1.0,{}
+DSIII.shp.xml,SyncOnce,TRUE,{}
+DSIII.shp.xml,DataProperties,,{}
+DSIII.shp.xml,lineage,,{}
+DSIII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO ""[CRPAAACODI] + [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '113951'}"
+DSIII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário AUX ""."" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114453'}"
+DSIII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO_1 ""[CRPAAACODI] & [AUX] & [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114827'}"
+DSIV.shp.xml,metadata,,{'{http://www.w3.org/XML/1998/namespace}lang': 'pt'}
+DSIV.shp.xml,Esri,,{}
+DSIV.shp.xml,CreaDate,20141023,{}
+DSIV.shp.xml,CreaTime,16293300,{}
+DSIV.shp.xml,ArcGISFormat,1.0,{}
+DSIV.shp.xml,SyncOnce,TRUE,{}
+DSIV.shp.xml,DataProperties,,{}
+DSIV.shp.xml,lineage,,{}
+DSIV.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO ""[CRPAAACODI] + [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '113951'}"
+DSIV.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário AUX ""."" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114453'}"
+DSIV.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO_1 ""[CRPAAACODI] & [AUX] & [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114827'}"
+DSV.shp.xml,metadata,,{'{http://www.w3.org/XML/1998/namespace}lang': 'pt'}
+DSV.shp.xml,Esri,,{}
+DSV.shp.xml,CreaDate,20141023,{}
+DSV.shp.xml,CreaTime,16300100,{}
+DSV.shp.xml,ArcGISFormat,1.0,{}
+DSV.shp.xml,SyncOnce,TRUE,{}
+DSV.shp.xml,DataProperties,,{}
+DSV.shp.xml,lineage,,{}
+DSV.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO ""[CRPAAACODI] + [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '113951'}"
+DSV.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário AUX ""."" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114453'}"
+DSV.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO_1 ""[CRPAAACODI] & [AUX] & [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114827'}"
+DSVI.shp.xml,metadata,,{'{http://www.w3.org/XML/1998/namespace}lang': 'pt'}
+DSVI.shp.xml,Esri,,{}
+DSVI.shp.xml,CreaDate,20141023,{}
+DSVI.shp.xml,CreaTime,16302900,{}
+DSVI.shp.xml,ArcGISFormat,1.0,{}
+DSVI.shp.xml,SyncOnce,TRUE,{}
+DSVI.shp.xml,DataProperties,,{}
+DSVI.shp.xml,lineage,,{}
+DSVI.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO ""[CRPAAACODI] + [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '113951'}"
+DSVI.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário AUX ""."" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114453'}"
+DSVI.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO_1 ""[CRPAAACODI] & [AUX] & [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114827'}"
+DSVII.shp.xml,metadata,,{'{http://www.w3.org/XML/1998/namespace}lang': 'pt'}
+DSVII.shp.xml,Esri,,{}
+DSVII.shp.xml,CreaDate,20141023,{}
+DSVII.shp.xml,CreaTime,16305500,{}
+DSVII.shp.xml,ArcGISFormat,1.0,{}
+DSVII.shp.xml,SyncOnce,TRUE,{}
+DSVII.shp.xml,DataProperties,,{}
+DSVII.shp.xml,lineage,,{}
+DSVII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO ""[CRPAAACODI] + [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '113951'}"
+DSVII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário AUX ""."" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114453'}"
+DSVII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO_1 ""[CRPAAACODI] & [AUX] & [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114827'}"
+DSVIII.shp.xml,metadata,,{'{http://www.w3.org/XML/1998/namespace}lang': 'pt'}
+DSVIII.shp.xml,Esri,,{}
+DSVIII.shp.xml,CreaDate,20141023,{}
+DSVIII.shp.xml,CreaTime,16312300,{}
+DSVIII.shp.xml,ArcGISFormat,1.0,{}
+DSVIII.shp.xml,SyncOnce,TRUE,{}
+DSVIII.shp.xml,DataProperties,,{}
+DSVIII.shp.xml,lineage,,{}
+DSVIII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO ""[CRPAAACODI] + [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '113951'}"
+DSVIII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário AUX ""."" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114453'}"
+DSVIII.shp.xml,Process,"CalculateField Limite_Didtrito_Sanitário MICRO_1 ""[CRPAAACODI] & [AUX] & [CMICROCODI]"" VB #","{'ToolSource': 'C:\\Program Files (x86)\\ArcGIS\\Desktop10.0\\ArcToolbox\\Toolboxes\\Data Management Tools.tbx\\CalculateField', 'Date': '20140502', 'Time': '114827'}"
