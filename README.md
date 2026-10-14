@@ -1,6 +1,6 @@
 # Umbrella Corporation
 
-Repositório do grupo com os trabalhos da disciplina: pipeline de dados sobre dengue no Recife, formulário de visita às ovitrampas e o desafio do IBGE.
+Repositório do grupo com os trabalhos: pipeline de dados sobre dengue no Recife, formulário de visita às ovitrampas e o desafio do IBGE.
 
 ## Integrantes
 1. Mateus Maximo
