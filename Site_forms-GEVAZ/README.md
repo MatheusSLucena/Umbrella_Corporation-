@@ -140,14 +140,6 @@ Abra `http://localhost:5000`. No topo deve aparecer **Conectado ao MongoDB**.
 - O jeito recomendado de abrir é `http://localhost:5000`. Abrir o arquivo `index.html` direto no navegador também funciona, **desde que o servidor esteja ligado** (`python app.py`).
 - Os dados **sempre** vão para o MongoDB. A página não guarda nada no navegador.
 
-## Publicar na internet (exemplo: Render)
-
-1. Suba o projeto para o GitHub (sem o `.env`).
-2. No Render, crie um **Web Service** a partir do repositório.
-3. Comando de build: `pip install -r requirements.txt`
-4. Comando de início: `gunicorn app:app`
-5. Em **Environment**, cadastre `MONGO_URI`, `DB_NAME` e `COLLECTION`.
-6. No Atlas, em **Network Access**, libere o acesso do servidor. O IP da hospedagem pode mudar; `0.0.0.0/0` funciona, mas é menos seguro, então use senha forte.
 
 ## Segurança
 
@@ -155,6 +147,3 @@ Abra `http://localhost:5000`. No topo deve aparecer **Conectado ao MongoDB**.
 - Esta versão **não tem login**. Se o site for publicado, qualquer pessoa com o link poderá ver, editar e excluir registros. Adicione autenticação antes de usar com dados reais.
 - Use no MongoDB um usuário só para esta aplicação, com permissão mínima.
 
-## Licença
-
-Defina a licença do projeto antes de publicar (por exemplo, MIT) e adicione o arquivo `LICENSE`.
